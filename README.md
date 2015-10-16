@@ -24,5 +24,7 @@
 * personal wiki / evernote
 * CODE EDITOR
 * pomodoro
-* diet
+* diet / exercise
+* fitbit
 * energy / sleep / bio
+* NLP
