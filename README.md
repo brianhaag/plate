@@ -28,3 +28,5 @@
 * fitbit
 * energy / sleep / bio
 * NLP
+* ebay
+* ariely-style bias monitor
