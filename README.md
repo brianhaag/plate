@@ -1,6 +1,14 @@
 # Plate: Online Personal Assistant
 
+is this a new social network?  if so, what magic dust would make it take off?  **PRIVACY**
+
 * oAuth + 2FA
+* passwords
+* security and home monitoring
+* privacy
+* zapier
+* trello
+* games
 * news
 * twitter
 * email
