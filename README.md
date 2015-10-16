@@ -23,3 +23,6 @@
 * priority or "important"
 * personal wiki / evernote
 * CODE EDITOR
+* pomodoro
+* diet
+* energy / sleep / bio
