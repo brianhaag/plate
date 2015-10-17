@@ -2,7 +2,12 @@
 
 is this a new social network?  if so, what magic dust would make it take off?  **PRIVACY**
 
+a tool to help apply the proper PROCESSES (and perhaps track output as reward)
+
+consistency is more important than quality as long as you're doing the right things (perfect practice makes perfect)
+
 * oAuth + 2FA
+* slack
 * passwords
 * security and home monitoring
 * privacy
